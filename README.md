@@ -5,6 +5,7 @@ We calculate Full Width at Half Maximum, FWHM without curve fitting.
 
 Only get the nearst measurement result.
 
+简单计算FWHM，没有进行曲线拟合，只是取了符合半高宽的观测点。
 
 # Usage
 ***
