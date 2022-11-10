@@ -1,4 +1,6 @@
 # FWHM
+https://github.com/lj365146534/FWHM  
+
 This is a simple script write to work for my honey. 
 
 We calculate Full Width at Half Maximum, FWHM without curve fitting. 
